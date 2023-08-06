@@ -1,0 +1,116 @@
+{
+    "starwarsdata": [
+        {
+            "release": "Dec 17, 2027",
+            "title": "Untitled Star Wars Movie",
+            "budget": "",
+            "opening": "",
+            "domestic": "",
+            "worldwide": ""
+        },
+        {
+            "release": "May 22, 2026",
+            "title": "Untitled Star Wars Movie",
+            "budget": "",
+            "opening": "",
+            "domestic": "",
+            "worldwide": ""
+        },
+        {
+            "release": "Dec 20, 2019",
+            "title": "Star Wars: The Rise of Skyw…",
+            "budget": "$275,000,000",
+            "opening": "$177,383,864",
+            "domestic": "$515,202,542",
+            "worldwide": "$1,072,767,997"
+        },
+        {
+            "release": "May 25, 2018",
+            "title": "Solo: A Star Wars Story",
+            "budget": "$275,000,000",
+            "opening": "$84,420,489",
+            "domestic": "$213,767,512",
+            "worldwide": "$393,151,347"
+        },
+        {
+            "release": "Dec 15, 2017",
+            "title": "Star Wars Ep. VIII: The Las…",
+            "budget": "$262,000,000",
+            "opening": "$220,009,584",
+            "domestic": "$620,181,382",
+            "worldwide": "$1,331,635,141"
+        },
+        {
+            "release": "Dec 16, 2016",
+            "title": "Rogue One: A Star Wars Story",
+            "budget": "$200,000,000",
+            "opening": "$155,081,681",
+            "domestic": "$533,539,991",
+            "worldwide": "$1,055,083,596"
+        },
+        {
+            "release": "Dec 18, 2015",
+            "title": "Star Wars Ep. VII: The Forc…",
+            "budget": "$306,000,000",
+            "opening": "$247,966,675",
+            "domestic": "$936,662,225",
+            "worldwide": "$2,064,615,817"
+        },
+        {
+            "release": "Aug 15, 2008",
+            "title": "Star Wars: The Clone Wars",
+            "budget": "$8,500,000",
+            "opening": "$14,611,273",
+            "domestic": "$35,161,554",
+            "worldwide": "$68,695,443"
+        },
+        {
+            "release": "May 19, 2005",
+            "title": "Star Wars Ep. III: Revenge …",
+            "budget": "$115,000,000",
+            "opening": "$108,435,841",
+            "domestic": "$380,270,577",
+            "worldwide": "$848,998,877"
+        },
+        {
+            "release": "May 16, 2002",
+            "title": "Star Wars Ep. II: Attack of…",
+            "budget": "$115,000,000",
+            "opening": "$80,027,814",
+            "domestic": "$310,676,740",
+            "worldwide": "$656,695,615"
+        },
+        {
+            "release": "May 19, 1999",
+            "title": "Star Wars Ep. I: The Phanto…",
+            "budget": "$115,000,000",
+            "opening": "$64,810,970",
+            "domestic": "$474,544,677",
+            "worldwide": "$1,027,044,677"
+        },
+        {
+            "release": "May 25, 1983",
+            "title": "Star Wars Ep. VI: Return of…",
+            "budget": "$32,500,000",
+            "opening": "$23,019,618",
+            "domestic": "$316,465,003",
+            "worldwide": "$482,365,284"
+        },
+        {
+            "release": "May 21, 1980",
+            "title": "Star Wars Ep. V: The Empire…",
+            "budget": "$23,000,000",
+            "opening": "$4,910,483",
+            "domestic": "$291,738,960",
+            "worldwide": "$549,001,086"
+        },
+        {
+            "release": "May 25, 1977",
+            "title": "Star Wars Ep. IV: A New Hope",
+            "budget": "$11,000,000",
+            "opening": "$1,554,475",
+            "domestic": "$460,998,007",
+            "worldwide": "$775,398,007"
+        }
+    ]
+}
