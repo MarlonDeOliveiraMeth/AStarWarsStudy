@@ -1,6 +1,6 @@
 # A Star Wars Study
 
-O universo cinematográfico de Star Wars é um sucesso inegável. Quem nunca assistiu a um dos seus filmes, ouviu o tema principal ou a marcha imperial? Desde 1977, quando "Uma Nova Esperança" foi lançada, o infinito embate entre os Sith e Jedi atraiu inúmeras pessoas para os cinemas e criou uma legião de fãs.
+O universo cinematográfico de Star Wars é um sucesso inegável. Quem nunca assistiu a um dos seus filmes, ouviu o tema principal ou a marcha imperial? Desde 1977, quando "Uma Nova Esperança" foi lançado, o infinito embate entre os Sith e Jedi atraiu inúmeras pessoas para os cinemas e criou uma legião de fãs.
 
 Atualmente, a franquia conta com doze títulos, sendo "A Ascensão Skywalker" o último deles, lançado nos cinemas no final de 2019. E a parceria da Disney com a Lucasfilm não deve parar por aí, pois até 2027, três novos filmes chegarão: uma continuação direta do episódio XI, um filme contando as origens da Ordem Jedi e outro que servirá como um crossover para todas as séries disponíveis no Disney+ que se passam após os eventos de "O Retorno de Jedi", como "The Mandalorian" e "Ahsoka".
 
