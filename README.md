@@ -6,7 +6,10 @@ Atualmente, a franquia conta com doze títulos, sendo "A Ascensão Skywalker" o 
 
 Nesse estudo feito com Node.js e Power BI, você poderá analisar os principais lucros e prejuízos da franquia ao longo dos anos, passando pela trilogia clássica, prequels e sequels. O Node.js foi utilizado para a criação de um bot que realiza um processo de web scraping do site The Numbers, que agrega as informações de bilheteria de toda a franquia. Uma vez obtidos, os dados foram armazenados em um arquivo JSON e consumidos pelo Power BI, onde desenvolveu-se as modelagens, gráficos, cards e um layout totalmente inspirado na nostálgica abertura dos filmes.
 
-![astarwarsstudy-capture](https://github.com/MarlonDeOliveiraMeth/AStarWarsStudy/assets/82294838/d407f298-d621-482c-bd60-dafbde82e89d)
+Bot
+![image](https://github.com/MarlonDeOliveiraMeth/AStarWarsStudy/assets/82294838/63bd8723-7708-40f8-ba42-377889d4f671)
 
+Dashboard
+![astarwarsstudy-capture](https://github.com/MarlonDeOliveiraMeth/AStarWarsStudy/assets/82294838/d407f298-d621-482c-bd60-dafbde82e89d)
 
 Que a força esteja com você!
